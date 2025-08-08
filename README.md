@@ -1,6 +1,12 @@
 Authentication and Authrization Module for PHPixie
 ====================
 
+
+# forked from phpixie/auth
+
+
+## Adapt to php 8.3+
+
 Auth supports logging the user via:
 
 * Login/Password authentication, passwords are automatically hashed and salted
